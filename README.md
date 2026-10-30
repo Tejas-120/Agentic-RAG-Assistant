@@ -475,4 +475,7 @@ Project Repository: [Agentic-RAG-Assistant](https://github.com/Tejas-120/Agentic
 ## Acknowledgements
 
 Built using the open-source Python ecosystem and Google Gemini services.
+## Application Preview
+
+![Agentic RAG Assistant](assets/streamlit-app.png)
 
