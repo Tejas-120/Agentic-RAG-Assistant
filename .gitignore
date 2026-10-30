@@ -20,5 +20,5 @@ evaluation_results.json
 
 # Local data and private documents
 data/
-documents/
-
+# Generated extraction outputs
+documents/extracted_images/
