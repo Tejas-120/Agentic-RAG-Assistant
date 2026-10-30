@@ -1,0 +1,25 @@
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local vector database
+chroma_db/
+
+# Generated evaluation results
+evaluation_results.json
+
+# Editor settings
+.vscode/
+
+# Local data and private documents
+data/
+documents/
+

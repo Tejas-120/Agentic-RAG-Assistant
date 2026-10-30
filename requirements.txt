@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+chromadb
+streamlit
+pypdf
+beautifulsoup4
+ddgs
